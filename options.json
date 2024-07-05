@@ -1,1 +1,22 @@
-[]
+        
+[
+  {
+    "patchName": "Change header",
+    "options": [
+      {
+        "key": "header",
+        "value": "Premium"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding",
+    "options": [
+      {
+        "key": "appName",
+        "value": "Youtube"
+      }
+    ]
+  }
+]
+        
